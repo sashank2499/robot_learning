@@ -1,3 +1,6 @@
+*** Settings ***
+Library    OperatingSystem
+
 *** Variables ***
 @{mammals}    cat    dog    cow
 @{birds}    eagle    falcon    ladybird
